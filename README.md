@@ -1,4 +1,4 @@
-# updated-promomox-ubuntu-vm-template
+# updated-proxmox-ubuntu-vm-template
 
 This is updated notes/guide to create vm template using ubuntu cloud image
 
